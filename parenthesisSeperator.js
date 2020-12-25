@@ -55,4 +55,4 @@ function seperateParenthesis(str) {
   )
 }
 
-console.log(seperateParenthesis('(a@((((b@c)@(d@e))@f)@g))'));
+//console.log(seperateParenthesis('(a@((((b@c)@(d@e))@f)@g))'));
